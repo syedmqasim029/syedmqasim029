@@ -3,10 +3,10 @@
 </h3> 
   
 <p align="center">
-    <a href="www.linkedin.com/in/syed-muhammad-qasim-b61b82343/" target="_blank"><img alt="LinkedIn" width="25px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg"></a>
+    <a href="https://www.linkedin.com/in/syed-muhammad-qasim-b61b82343/" target="_blank"><img alt="LinkedIn" width="25px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg"></a>
     <a href="https://www.instagram.com/syedmqasim0321/" target="_blank"><img alt="Instagram" width="25px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg"></a>
     <a href="https://www.facebook.com/profile.php?id=100065040111326" target="_blank"><img alt="Facebook" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg"></a>
-<a href="syedmqasim0321@gmail.com" target="_blank">
+<a href="mailto:syedmqasim0321@gmail.com" target="_blank">
   <img alt="Gmail" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg">
 </a></p> 
 
