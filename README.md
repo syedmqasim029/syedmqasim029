@@ -16,7 +16,7 @@
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Python+Developer;AI+%26+Machine+Learning+Student;Always+Learning+New+Things&center=true&width=750&size=22&pause=1000" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Kon'nichiwa+I'm+Syed+Muhammad+Qasim;Python+Developer;AI+%26+Machine+Learning+Student;Always+Learning+New+Things&center=true&width=750&size=22&pause=1000" />
 </p>
 
 <img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/wLNuW1tCKRiPmDV5Y4/200w.gif?cid=6c09b952x3zzjonmdcbxkjbrtqpqkyxuwozig1cy2vqvfxgq&ep=v1_gifs_search&rid=200w.gif&ct=g">
