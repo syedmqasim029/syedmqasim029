@@ -7,7 +7,7 @@
     <a href="https://leetcode.com/u/Qasim029/" target="_blank">
       <img alt="LeetCode" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg" />
     </a>
-    <a href="https://www.kaggle.com/syedmqasim0321" target="_blank">
+    <a href="https://www.kaggle.com/syedmuhammadqasim/" target="_blank">
       <img alt="Kaggle" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" />
     </a>
     <!-- Personal Website -->
