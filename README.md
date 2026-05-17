@@ -36,9 +36,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=qasim032&label=Profile%20views&color=0e75b6&style=flat" alt="qasim032" /> </p>
 
-- 🔭 I’m currently working on **Neural Networks**
+- 🔭 I’m currently working on **GenAI**
 
-- 🌱 I’m currently learning **DSA, Data Science**
+- 🌱 I’m currently learning **Agentic AI**
 
 - 👨‍💻 All of my projects are available at [Github](https://github.com/syedmqasim029)
 - My personal portfolio:[Portfolio](https://syedmqasim029.github.io)
